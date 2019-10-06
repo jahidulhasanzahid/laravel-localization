@@ -94,6 +94,9 @@
                     <a href="lang/en">English</a>
                     <a href="lang/bn">Bangla</a>
                     <a href="lang/ar">Arabic</a>
+                    <a href="lang/jap">Japan</a>
+                    <a href="lang/hin">Hindi</a>
+                    <a href="lang/chi">china</a>
                 </div>
             </div>
         </div>
